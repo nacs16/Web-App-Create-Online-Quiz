@@ -1,0 +1,47 @@
+body {
+   background-color: #DADADA;
+   font-family: Arial;
+}
+
+a {
+    color: #666666;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#wrapper {
+    width: 800px;
+}
+
+#menu {
+    text-align: center;
+    padding: 10px;
+    font-size: 20pt;
+    font-style: bold;
+}
+
+#header {
+    text-align:center;
+    border: 1px solid black;
+    background-color: #B2B2B2;
+}
+
+#footer {
+    font-size: 8pt;
+    font-style: italic;
+}
+
+#content table, #content td, #content th {
+    border: 1px solid black;
+}
+
+#content table {
+    border-collapse: collapse;
+}
+
+#content td, #content th {
+    padding: 5px;
+}
